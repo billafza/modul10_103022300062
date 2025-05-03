@@ -34,3 +34,4 @@ D:\modul10_103022300062\obj\Debug\net8.0\refint\modul10_103022300062.dll
 D:\modul10_103022300062\obj\Debug\net8.0\modul10_103022300062.pdb
 D:\modul10_103022300062\obj\Debug\net8.0\modul10_103022300062.genruntimeconfig.cache
 D:\modul10_103022300062\obj\Debug\net8.0\ref\modul10_103022300062.dll
+D:\modul10_103022300062\obj\Debug\net8.0\modul10_103022300062.sourcelink.json
